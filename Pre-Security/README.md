@@ -39,4 +39,5 @@ Detailed notes and hands-on walkthroughs will be added for each room. These entr
 This project is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 It is a personal learning project and **not affiliated with or endorsed by TryHackMe**. All content reflects my independent study and experience.
 
+📬 Contributions: This project is based on personal study. Contributions are currently closed, but suggestions and feedback are welcome via Issues.
 
