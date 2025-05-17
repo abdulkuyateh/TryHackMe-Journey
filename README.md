@@ -40,6 +40,6 @@ Each TryHackMe learning path has its own directory with:
 This repository is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).  
 It is based entirely on my personal learning and experience and is **not affiliated with or endorsed by TryHackMe**.
 
-Please refer to [LICENSE.md](./LICENSE.md) for full licensing terms.
+Please refer to [Creative Commons License](./LICENSE) for full licensing terms.
 
 ---
